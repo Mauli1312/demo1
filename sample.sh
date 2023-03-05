@@ -1,1 +1,1 @@
-echo 'this is my new jenkins job by simran'
+echo 'this is my new job by simran'
